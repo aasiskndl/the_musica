@@ -1,0 +1,32 @@
+.m-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #0000001b;
+    min-height: 5vh;
+}
+.m-header .left span{
+    display: flex;
+    align-items: center;
+}
+.m-header .left #dot {
+    font-size: larger;
+    color: orangered;
+}
+
+.m-header .right .search {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid #000;
+    padding: 10px 20px;
+    /* border-radius: 8px; */
+}
+
+.m-header .right .search input {
+    border: none;
+    outline: none;
+    min-width: 25vw;
+}

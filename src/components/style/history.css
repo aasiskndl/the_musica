@@ -1,0 +1,47 @@
+.history {
+    padding: 10px;
+}
+
+.history .title span {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.h-content {
+    height: 30vh;
+    overflow: scroll;
+}
+.h-table{
+    width: 100%;
+    text-align: left;
+}
+
+.h-content .h-table #heading {
+    background: #fff;
+    position: sticky;
+    top: 0px;
+
+}
+
+.h-content::-webkit-scrollbar {
+    display: none;
+}
+
+.h-table tr td {
+    padding: 10px;
+}
+
+.h-table .table-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.h-table .table-title .left {
+    height: 80px;
+    aspect-ratio: 1;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

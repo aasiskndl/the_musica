@@ -1,0 +1,49 @@
+.player {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    position: relative;
+    background: #000;
+    color: #fff;
+    border-top: 1px solid #ffffff20;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.player .audio,
+.player .control .ctrl,
+.player .misc {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.player .control {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.player .control .slider input {
+    min-width: 25vw;
+}
+
+/* SLIDER THEME */
+
+.play-pause,
+.volume {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.player .audio .image {
+    height: 80px;
+    aspect-ratio: 1;
+}
+
+/* CHECK */
