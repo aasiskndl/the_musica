@@ -1,6 +1,6 @@
 # 🎶 Musica - Your Personal Music Hub (Work in Progress) 🚀
 
-Welcome to **Melodia**, an ongoing personal project aimed at building a sleek and intuitive music application using React.js! This app is designed to be your go-to place for managing and enjoying your favorite tunes, with a focus on a smooth user experience and a beautiful interface.
+Welcome to **Musica**, an ongoing personal project aimed at building a sleek and intuitive music application using React.js! This app is designed to be your go-to place for managing and enjoying your favorite tunes, with a focus on a smooth user experience and a beautiful interface.
 
 ## ✨ Features (Planned & Current)
 
