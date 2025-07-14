@@ -1,4 +1,4 @@
-# 🎶 Melodia - Your Personal Music Hub (Work in Progress) 🚀
+# 🎶 Musica - Your Personal Music Hub (Work in Progress) 🚀
 
 Welcome to **Melodia**, an ongoing personal project aimed at building a sleek and intuitive music application using React.js! This app is designed to be your go-to place for managing and enjoying your favorite tunes, with a focus on a smooth user experience and a beautiful interface.
 
@@ -23,7 +23,7 @@ Welcome to **Melodia**, an ongoing personal project aimed at building a sleek an
 
 ## ⚙️ Getting Started (Setup & Installation)
 
-Follow these steps to get Melodia up and running on your local machine.
+Follow these steps to get Musica up and running on your local machine.
 
 ### ✅ Prerequisites
 
@@ -37,8 +37,6 @@ Before you begin, ensure you have the following installed:
 1. **Clone the Repository**:
    ```bash
    git https://github.com/aasiskndl/the_musica.git
-   cd melodia-music-app
-
    ```
 2. **Install Dependencies**: Navigate into the project directory and install all the necessary npm packages:
    ```bash
